@@ -10,3 +10,29 @@ This project analyzes historical tourist arrival trends in Sri Lanka using Micro
 Business Question
 
 Which tourist source markets and months should Sri Lanka prioritize for tourism promotion based on historical tourist arrival trends?
+
+Stakeholder
+
+Sri Lanka Tourism Development Authority (SLTDA)
+
+Objectives
+
+Analyze tourist arrivals by source country.
+
+Identify monthly and yearly tourism trends.
+
+Explore changes in tourist arrival patterns over time.
+
+Support tourism promotion planning through data analysis.
+
+Tools & Technologies
+
+Microsoft Power BI
+
+Power Query
+
+DAX
+
+Microsoft Excel
+
+GitHub
