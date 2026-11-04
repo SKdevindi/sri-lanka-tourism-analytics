@@ -36,3 +36,23 @@ DAX
 Microsoft Excel
 
 GitHub
+
+Project Structure
+
+01_Project_Planning/ – Project planning documents.
+
+02_Raw_Data/ – Original downloaded datasets.
+
+03_Documentation/ – Data provenance and project documentation.
+
+04_PowerBI_Files/ – Power BI project files.
+
+05_Screenshots/ – Project progress screenshots.
+
+06_Final_Submission/ – Final deliverables.
+
+Project Status
+
+In Progress
+
+
