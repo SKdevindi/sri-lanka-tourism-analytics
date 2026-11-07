@@ -1,58 +1,53 @@
-# sri-lanka-tourism-analytics
-A Power BI project analyzing Sri Lankan tourist arrivals, source markets, and monthly tourism trends.
+# Sri Lanka Tourism Analytics
 
-Sri Lanka Tourism Analytics Dashboard
+## Project Overview
+This project focuses on analyzing Sri Lanka's tourism industry using historical tourist arrivals and tourism earnings data.
 
-Project Overview
+The aim is to identify tourism trends, understand changes in tourist arrivals, and provide data-driven insights to support tourism promotion strategies.
 
-This project analyzes historical tourist arrival trends in Sri Lanka using Microsoft Power BI. The aim is to understand tourism patterns and provide data-driven insights to support tourism promotion planning.
-
-Business Question
-
+## Research Question
 Which tourist source markets and months should Sri Lanka prioritize for tourism promotion based on historical tourist arrival trends?
 
-Stakeholder
+## Data Sources
 
-Sri Lanka Tourism Development Authority (SLTDA)
+### 1. Sri Lanka Tourism Development Authority (SLTDA)
+- Dataset: Tourist Arrivals
+- Period: 2018–2025
+- Website: https://www.sltda.gov.lk/en/tourism-statistics
 
-Objectives
+### 2. Central Bank of Sri Lanka (CBSL)
+- Dataset: Earnings from Tourism
+- Website: https://www.cbsl.gov.lk/en/statistics/statistical-tables/external-sector
 
-Analyze tourist arrivals by source country.
+## Repository Structure
 
-Identify monthly and yearly tourism trends.
+```text
+sri-lanka-tourism-analytics/
+├── 01_Project_Planning/
+├── 02_Raw_Data/
+│   ├── SLTDA/
+│   └── CBSL/
+└── 03_Data_Documentation/
+    └── Data_Provenance.xlsx
+```
 
-Explore changes in tourist arrival patterns over time.
+## Project Objectives
+- Analyze historical tourist arrival trends.
+- Identify major tourist source markets.
+- Examine monthly tourism patterns.
+- Analyze tourism earnings trends.
+- Develop an interactive tourism analytics dashboard.
 
-Support tourism promotion planning through data analysis.
+## Tools and Technologies
+- Microsoft Excel
+- Python
+- Power BI
+- GitHub
 
-Tools & Technologies
+## Project Status
+Data collection and initial documentation completed. Further data inspection, cleaning, analysis, and dashboard development are planned.
 
-Microsoft Power BI
-
-Power Query
-
-DAX
-
-Microsoft Excel
-
-GitHub
-
-Project Structure
-
-01_Project_Planning/ – Project planning documents.
-
-02_Raw_Data/ – Original downloaded datasets.
-
-03_Documentation/ – Data provenance and project documentation.
-
-04_PowerBI_Files/ – Power BI project files.
-
-05_Screenshots/ – Project progress screenshots.
-
-06_Final_Submission/ – Final deliverables.
-
-Project Status
-
-In Progress
+## Author
+Aspiring Business Analyst
 
 
